@@ -1,4 +1,4 @@
-module gitlab.com/brickhill/site/fauxgl
+module github.com/2X4Developer/brickgl
 
 go 1.15
 
